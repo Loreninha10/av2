@@ -1,0 +1,17 @@
+body{ 
+    text-align: center;
+    color: white;
+    background-color: aquamarine;
+
+}
+
+.titulo {
+ font-family: 'Courier New', Courier, monospace;
+ color: black;
+
+}
+
+.subtitulo {
+    font-family: 'Courier New', Courier, monospace;
+
+}
